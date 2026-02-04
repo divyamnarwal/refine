@@ -216,6 +216,8 @@ You can take a look at some live examples that can be built using **Refine CORE*
 
 ## Contribution
 
+**New to contributing?** Check out our [Getting Started Guide](../../GETTING_STARTED.md) for step-by-step instructions on making your first contribution.
+
 [Refer to the contribution docs for more information.](https://refine.dev/core/docs/guides-concepts/contributing/#ways-to-contribute)
 
 If you have any doubts related to the project or want to discuss something, then join our [Discord server](https://discord.gg/refine).
